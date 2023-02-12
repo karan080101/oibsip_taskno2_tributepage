@@ -1,0 +1,123 @@
+#Subhash-Chandra-Bose
+{
+    text-align: center;
+   text-shadow: 4px 6px 4px slategray;
+    font-size: 4rem;
+    color: forestgreen;
+    font-family: 'Patua One', cursive;
+    padding: 50px 0 0 0;
+}
+
+#img-div{
+    margin-top: 50px;
+    text-align: center;
+}
+
+#main{
+    background-color: gainsboro;
+}
+
+#caption1{
+font-style: italic;
+font-size: 1.2em;
+text-align: center;
+color: darkslategray;
+}
+
+#caption1:hover{
+transform: scale(1.5);
+text-shadow: 4px 6px 4px slategray;
+color: red;
+}
+
+#early:hover{
+    margin-left: 115px;
+    transform: scale(1.2);
+    text-shadow: 2px 3px 2px slategray;
+}
+
+.col1:hover{
+    color:rgb(36, 199, 134);
+}
+
+#indian:hover{
+    margin-left: 115px;
+    transform: scale(1.2);
+    text-shadow: 2px 3px 2px slategray;
+}
+
+.col2:hover{
+    color:rgb(228, 39, 143);
+}
+
+#nazi:hover{
+    margin-left: 115px;
+    transform: scale(1.2);
+    text-shadow: 2px 3px 2px slategray;
+    color: rgb(197, 125, 24);
+}
+
+.col3:hover{
+    color:rgb(39, 216, 86);
+}
+
+#death:hover{
+    margin-left: 105px;
+    transform: scale(1.2);
+    text-shadow: 2px 3px 2px slategray;
+}
+
+.col:hover{
+    color:rgb(197, 125, 24);
+}
+
+#Netaji{
+    font-family: 'Patua One', cursive;
+    color: rgb(75, 72, 72);
+    text-align: center;
+    font-size: 2rem;
+}
+
+#image-caption{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(75, 72, 72);
+}
+
+#tribute-info{
+    margin: 100px;
+}
+
+.image1{
+    height: 250px;
+    width: 250px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image2{
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+strong{
+    font-size: 30px;
+    color: rgb(75, 72, 72);
+    font-family: 'Patua One', cursive;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 70px;
+    color: rgb(75, 72, 72);
+    font-family: 'Patua One', cursive;
+}
